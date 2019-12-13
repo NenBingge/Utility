@@ -1,0 +1,2 @@
+python changeSuffix.py
+@pause
